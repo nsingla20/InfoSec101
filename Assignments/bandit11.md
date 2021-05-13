@@ -1,10 +1,9 @@
-# Bandit Level x to y Writeup
+# Bandit Level 11 to 12 Writeup
 
-(Remove all the comments like these)
 
-Author: [Naman Gupta](https://github.com/namangup) (Mention your name, GitHub profile)
+Author: [Naman Singla](https://github.com/nsingla20)
 
-Problem Page: [bandit11](https://overthewire.org/bandit/bandit11) (Change this link accordingly)
+Problem Page: [bandit11](https://overthewire.org/bandit/bandit11)
 
 ## List of Commands Used
 ```
