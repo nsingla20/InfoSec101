@@ -16,6 +16,14 @@ flag is divided in 3 parts
 
 # Scavenger Hunt
 **Flag :** picoCTF{th4ts_4_l0
+A bit complicated that previous one
+again flag is divided in **three parts** :
+
+ 1. comment in **html**  file
+ 2. comment in **css** file
+ 3. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1MjA3NzczLDE1NzUxNjk5MjZdfQ==
+eyJoaXN0b3J5IjpbOTU2NjU0NTAsOTI1MjA3NzczLDE1NzUxNj
+k5MjZdfQ==
 -->
