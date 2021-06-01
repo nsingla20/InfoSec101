@@ -15,16 +15,18 @@ flag is divided in 3 parts
  3. comment in **.js** file
 
 # Scavenger Hunt
-**Flag :** picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k
+**Flag :** picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_35844447}
+
 A bit complicated that previous one
-again flag is divided in ** parts** :
+again flag is divided in **5 parts** :
 
  1. comment in **html**  file
  2. comment in **css** file
  3. comment in js shows about controling index which relates to **robots.txt** file. So get **robots.txt** using a **GET** request which somes next hint :<br /> `I think this is an apache server... can you Access the next flag?`
  4. apache server have **.htaccess** file. So, get it by **GET** request which gives next hint :<br />`I love making websites on my Mac, I can Store a lot of information there.`
+ 5. What stands out the most about that hint is the capitalized "Store". In Macs, a [`.DS_Store`  file](https://en.wikipedia.org/wiki/.DS_Store) stores the configurations for how the desktop looks (eg. icon location, etc.) Changing `.htacess` with `.DS_Store` got
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2MTM2ODcxLDE4NzU0NDkxNzAsOTI1Mj
-A3NzczLDE1NzUxNjk5MjZdfQ==
+eyJoaXN0b3J5IjpbLTQxNTk0MzEyMiw2MTYxMzY4NzEsMTg3NT
+Q0OTE3MCw5MjUyMDc3NzMsMTU3NTE2OTkyNl19
 -->
