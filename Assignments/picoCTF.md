@@ -33,15 +33,19 @@ On loading website makes a GET request to get the correct flag. I this junk last
 
 # login
 Simple!
-Flag : picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}
+**Flag :** picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}
 Flag is in encoded form in js file fetched by website to match the password entered. Flag is encoded in base64 format, just decode it!
 
 # where are the robots
 Simple!
-Flag : picoCTF{ca1cu1at1ng_Mach1n3s_477ce}
-Clearly, Creator control acces using robots.txt 
+**Flag :** picoCTF{ca1cu1at1ng_Mach1n3s_477ce}
+Clearly, Creator control acces using robots.txt. So, get it using GET request and next Hint :
+
+    Disallow: /477ce.html
+  get /477ce.html and it contains flag.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTY3OTYxLC00ODM3MTc2NjYsLTQwNj
+eyJoaXN0b3J5IjpbNjExNzY3MDg2LC00ODM3MTc2NjYsLTQwNj
 M3NjE3NywxOTIxNjg3MDQ3LC00MTU5NDMxMjIsNjE2MTM2ODcx
 LDE4NzU0NDkxNzAsOTI1MjA3NzczLDE1NzUxNjk5MjZdfQ==
 -->
