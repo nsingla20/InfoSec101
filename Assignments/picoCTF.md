@@ -39,13 +39,13 @@ Flag is in encoded form in js file fetched by website to match the password ente
 # where are the robots
 Simple!
 **Flag :** picoCTF{ca1cu1at1ng_Mach1n3s_477ce}
-Clearly, Creator control acces using robots.txt. So, get it using GET request and next Hint :
+Clearly, Creator control acces using **robots.txt**. So, get it using GET request and next Hint :
 
     Disallow: /477ce.html
-  get /477ce.html and it contains flag.
+  get **/477ce.html** and it contains flag.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExNzY3MDg2LC00ODM3MTc2NjYsLTQwNj
-M3NjE3NywxOTIxNjg3MDQ3LC00MTU5NDMxMjIsNjE2MTM2ODcx
-LDE4NzU0NDkxNzAsOTI1MjA3NzczLDE1NzUxNjk5MjZdfQ==
+eyJoaXN0b3J5IjpbLTE3MDE1Njk2ODIsLTQ4MzcxNzY2NiwtND
+A2Mzc2MTc3LDE5MjE2ODcwNDcsLTQxNTk0MzEyMiw2MTYxMzY4
+NzEsMTg3NTQ0OTE3MCw5MjUyMDc3NzMsMTU3NTE2OTkyNl19
 -->
