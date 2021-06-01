@@ -21,9 +21,9 @@ again flag is divided in **three parts** :
 
  1. comment in **html**  file
  2. comment in **css** file
- 3. comment in js shows about controling index which relates to 
+ 3. comment in js shows about controling index which relates to **robots.txt** file. So get **robotss.txt** using a GET request which somes next Hint : `enter code here`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjM1OTI1NDcsOTI1MjA3NzczLDE1Nz
-UxNjk5MjZdfQ==
+eyJoaXN0b3J5IjpbMjI0ODE0MzI5LDkyNTIwNzc3MywxNTc1MT
+Y5OTI2XX0=
 -->
