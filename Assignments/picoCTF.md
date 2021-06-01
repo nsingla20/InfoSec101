@@ -26,8 +26,12 @@ again flag is divided in **5 parts** :
  4. apache server have **.htaccess** file. So, get it by **GET** request which gives next hint :<br />`I love making websites on my Mac, I can Store a lot of information there.`
  5. What stands out the most about that hint is the capitalized "Store". In Macs, a `.DS_Store`  file stores the configurations for how the desktop looks (eg. icon location, etc.) Changing `.htacess` with `.DS_Store` got the full flag.
 
+# Some Assembly Required
+Flag : picoCTF{a8bae10f4d9544110222c2d639dc6de6}
+Simple!
+On loading website makes a GET request to get the correct flag. I 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTY4NzA0NywtNDE1OTQzMTIyLDYxNj
-EzNjg3MSwxODc1NDQ5MTcwLDkyNTIwNzc3MywxNTc1MTY5OTI2
-XX0=
+eyJoaXN0b3J5IjpbMTQyOTgzMjE1LDE5MjE2ODcwNDcsLTQxNT
+k0MzEyMiw2MTYxMzY4NzEsMTg3NTQ0OTE3MCw5MjUyMDc3NzMs
+MTU3NTE2OTkyNl19
 -->
