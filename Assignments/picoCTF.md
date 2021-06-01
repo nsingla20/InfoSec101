@@ -15,7 +15,7 @@ flag is divided in 3 parts
  3. comment in **.js** file
 
 # Scavenger Hunt
-**Flag :** picoCTF{th4ts_4_l0t_0f_pl4c
+**Flag :** picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k
 A bit complicated that previous one
 again flag is divided in ** parts** :
 
@@ -25,6 +25,6 @@ again flag is divided in ** parts** :
  4. apache server have **.htaccess** file. So, get it by **GET** request which gives next hint :<br />`I love making websites on my Mac, I can Store a lot of information there.`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTMzNDYxLDE4NzU0NDkxNzAsOTI1Mj
+eyJoaXN0b3J5IjpbNjE2MTM2ODcxLDE4NzU0NDkxNzAsOTI1Mj
 A3NzczLDE1NzUxNjk5MjZdfQ==
 -->
