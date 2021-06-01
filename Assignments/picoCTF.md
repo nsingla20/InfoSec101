@@ -21,9 +21,10 @@ again flag is divided in ** parts** :
 
  1. comment in **html**  file
  2. comment in **css** file
- 3. comment in js shows about controling index which relates to **robots.txt** file. So get **robots.txt** using a GET request which somes next Hint : `I think this is an apache server... can you Access the next flag?`
+ 3. comment in js shows about controling index which relates to **robots.txt** file. So get **robots.txt** using a **GET** request which somes next hint :<br /> `I think this is an apache server... can you Access the next flag?`
+ 4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDM2OTczLDkyNTIwNzc3MywxNTc1MT
-Y5OTI2XX0=
+eyJoaXN0b3J5IjpbMTg3NTQ0OTE3MCw5MjUyMDc3NzMsMTU3NT
+E2OTkyNl19
 -->
