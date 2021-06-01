@@ -15,15 +15,15 @@ flag is divided in 3 parts
  3. comment in **.js** file
 
 # Scavenger Hunt
-**Flag :** picoCTF{th4ts_4_l0
+**Flag :** picoCTF{th4ts_4_l0t_0f_pl4c
 A bit complicated that previous one
-again flag is divided in **three parts** :
+again flag is divided in ** parts** :
 
  1. comment in **html**  file
  2. comment in **css** file
- 3. comment in js shows about controling index which relates to **robots.txt** file. So get **robotss.txt** using a GET request which somes next Hint : `enter code here`
+ 3. comment in js shows about controling index which relates to **robots.txt** file. So get **robots.txt** using a GET request which somes next Hint : `I think this is an apache server... can you Access the next flag?`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0ODE0MzI5LDkyNTIwNzc3MywxNTc1MT
+eyJoaXN0b3J5IjpbMTkyMDM2OTczLDkyNTIwNzc3MywxNTc1MT
 Y5OTI2XX0=
 -->
