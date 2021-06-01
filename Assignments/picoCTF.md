@@ -34,9 +34,9 @@ On loading website makes a GET request to get the correct flag. I this junk last
 # login
 Simple!
 Flag : picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}
-Flag is in encoded form in js file fetched by website to match the password entered.
+Flag is in encoded form in js file fetched by website to match the password entered. Flag is encoded in base64 format, just decode it!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxMDEyMDM0LC00MDYzNzYxNzcsMTkyMT
-Y4NzA0NywtNDE1OTQzMTIyLDYxNjEzNjg3MSwxODc1NDQ5MTcw
-LDkyNTIwNzc3MywxNTc1MTY5OTI2XX0=
+eyJoaXN0b3J5IjpbMTc4NDY2NTMxMSwtNDA2Mzc2MTc3LDE5Mj
+E2ODcwNDcsLTQxNTk0MzEyMiw2MTYxMzY4NzEsMTg3NTQ0OTE3
+MCw5MjUyMDc3NzMsMTU3NTE2OTkyNl19
 -->
