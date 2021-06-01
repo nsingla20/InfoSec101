@@ -22,9 +22,9 @@ again flag is divided in ** parts** :
  1. comment in **html**  file
  2. comment in **css** file
  3. comment in js shows about controling index which relates to **robots.txt** file. So get **robots.txt** using a **GET** request which somes next hint :<br /> `I think this is an apache server... can you Access the next flag?`
- 4. apache server have **.htaccess** file. So, get it by **GET** request which gives next hint :<br />
+ 4. apache server have **.htaccess** file. So, get it by **GET** request which gives next hint :<br />`I love making websites on my Mac, I can Store a lot of information there.`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTM4MjE5NzYsMTg3NTQ0OTE3MCw5Mj
-UyMDc3NzMsMTU3NTE2OTkyNl19
+eyJoaXN0b3J5IjpbMTA1NTMzNDYxLDE4NzU0NDkxNzAsOTI1Mj
+A3NzczLDE1NzUxNjk5MjZdfQ==
 -->
