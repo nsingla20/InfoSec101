@@ -12,6 +12,8 @@ flag is divided in 3 parts
  2. comment in **.css** file
  3. comment in **.js** file
 
+# Scavenger Hunt
+h4ts_4_l0
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTE2OTkyNl19
+eyJoaXN0b3J5IjpbMTY4MjU1MDU1MywxNTc1MTY5OTI2XX0=
 -->
