@@ -9,8 +9,9 @@ Simple!
 flag is divided in 3 parts
 
  1. comment in **.html** file
- 2. comment in **strong text**
+ 2. comment in **.css** file
+ 3. comment in **.js** file
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0NjM3MjM1XX0=
+eyJoaXN0b3J5IjpbMTU3NTE2OTkyNl19
 -->
