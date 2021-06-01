@@ -35,8 +35,13 @@ On loading website makes a GET request to get the correct flag. I this junk last
 Simple!
 Flag : picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}
 Flag is in encoded form in js file fetched by website to match the password entered. Flag is encoded in base64 format, just decode it!
+
+# where are the robots
+Simple!
+Flag : picoCTF{ca1cu1at1ng_Mach1n3s_477ce}
+Clearly, Creator control acces using robots.txt 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzcxNzY2NiwtNDA2Mzc2MTc3LDE5Mj
-E2ODcwNDcsLTQxNTk0MzEyMiw2MTYxMzY4NzEsMTg3NTQ0OTE3
-MCw5MjUyMDc3NzMsMTU3NTE2OTkyNl19
+eyJoaXN0b3J5IjpbMTI0MTY3OTYxLC00ODM3MTc2NjYsLTQwNj
+M3NjE3NywxOTIxNjg3MDQ3LC00MTU5NDMxMjIsNjE2MTM2ODcx
+LDE4NzU0NDkxNzAsOTI1MjA3NzczLDE1NzUxNjk5MjZdfQ==
 -->
