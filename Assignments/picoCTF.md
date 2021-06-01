@@ -27,7 +27,7 @@ again flag is divided in **5 parts** :
  5. What stands out the most about that hint is the capitalized "Store". In Macs, a `.DS_Store`  file stores the configurations for how the desktop looks (eg. icon location, etc.) Changing `.htacess` with `.DS_Store` got the full flag.
 
 # Some Assembly Required
-**Flag :** picoCTF{a8bae10f4d9544110222c2d639dc6de6}
+**Flag :** picoCTF{a8bae10f4d9544110222c2d639dc6de6}<br/>
 Simple!
 On loading website makes a GET request to get the correct flag. I this junk last line is clearly written flag itself xD.
 
@@ -36,7 +36,7 @@ Simple!
 Flag : picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}
 Flag is in encoded form in js file fetched by website to match the password entered. Flag is encoded in base64 format, just decode it!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDY2NTMxMSwtNDA2Mzc2MTc3LDE5Mj
+eyJoaXN0b3J5IjpbLTQ4MzcxNzY2NiwtNDA2Mzc2MTc3LDE5Mj
 E2ODcwNDcsLTQxNTk0MzEyMiw2MTYxMzY4NzEsMTg3NTQ0OTE3
 MCw5MjUyMDc3NzMsMTU3NTE2OTkyNl19
 -->
