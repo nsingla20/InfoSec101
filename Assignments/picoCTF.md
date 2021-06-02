@@ -34,7 +34,9 @@ On loading website makes a GET request to get the correct flag. I this junk last
 
 # where are the robots
 Simple!
+
 **Flag :** picoCTF{ca1cu1at1ng_Mach1n3s_477ce}
+
 Clearly, Creator control acces using **robots.txt**. So, get it using GET request and next Hint :
 
     Disallow: /477ce.html
@@ -42,7 +44,9 @@ Clearly, Creator control acces using **robots.txt**. So, get it using GET reques
 
 # logon
 Bit error porne!
+
 **Flag** : picoCTF{th3_c0nsp1r4cy_l1v3s_d1c24fef}
+
 As mentioned in Hint login doesn't check password of any other user except Joe. So, first login with any random username and password. On login, it makes request to **/flag** endpoint. Change that request's cookies values. Set 
 
     username = Joe
@@ -51,19 +55,23 @@ As mentioned in Hint login doesn't check password of any other user except Joe. 
 
 # dont-use-client-side
 Simple!
+
 **Flag :** picoCTF{no_clients_plz_1a3c89}
+
 website doen't make any request to verify cerdentials. So, clearly password is already present in computer and That's it!
 Flag is contained in js script which is embedded in html file. It's just broken into parts.
 # It is my birthday
 A bit googling
-Flag : picoCTF{c0ngr4ts_u_r_1nv1t3d_5c8c5ce2}
-Its just about getting 2 files having same md5 hash but different content (md5-collision) and small size. So, I just find two files online having these properties on [this](http://web.archive.org/web/20071226014140/http://www.cits.rub.de/MD5Collisions/) link. Then upload these files and 
+
+**Flag :** picoCTF{c0ngr4ts_u_r_1nv1t3d_5c8c5ce2}
+
+Its just about getting 2 files having same md5 hash but different content (md5-collision) and small size. So, I just find two files online having these properties on [this](http://web.archive.org/web/20071226014140/http://www.cits.rub.de/MD5Collisions/) link. Then upload these files and change `Content-Type` to `application/pdf`.
 # login
 Simple!
 **Flag :** picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}
 Flag is in encoded form in js file fetched by website to match the password entered. Flag is encoded in base64 format, just decode it!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTA1MDQ1NiwtMTk2MTE3MTUwNywtNT
+eyJoaXN0b3J5IjpbMTAzNDQyODI2MCwtMTk2MTE3MTUwNywtNT
 Q0ODUzNjUsLTE3MDE1Njk2ODIsLTQ4MzcxNzY2NiwtNDA2Mzc2
 MTc3LDE5MjE2ODcwNDcsLTQxNTk0MzEyMiw2MTYxMzY4NzEsMT
 g3NTQ0OTE3MCw5MjUyMDc3NzMsMTU3NTE2OTkyNl19
