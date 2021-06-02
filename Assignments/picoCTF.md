@@ -32,8 +32,6 @@ Simple!
 On loading website makes a GET request to get the correct flag. I this junk last line is clearly written flag itself xD.
 
 
-
-
 # where are the robots
 Simple!
 **Flag :** picoCTF{ca1cu1at1ng_Mach1n3s_477ce}
@@ -44,10 +42,16 @@ Clearly, Creator control acces using **robots.txt**. So, get it using GET reques
 
 # logon
 Bit error porne!
-Flag : 
+Flag : picoCTF{th3_c0nsp1r4cy_l1v3s_d1c24fef}
+As mentioned in Hint login doesn't check password of any other user except Joe. So, first login with any random username and password. On login, it makes request to 
+
+# login
+Simple!
+**Flag :** picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}
+Flag is in encoded form in js file fetched by website to match the password entered. Flag is encoded in base64 format, just decode it!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTMyMjEzNiwtMTcwMTU2OTY4MiwtND
-gzNzE3NjY2LC00MDYzNzYxNzcsMTkyMTY4NzA0NywtNDE1OTQz
-MTIyLDYxNjEzNjg3MSwxODc1NDQ5MTcwLDkyNTIwNzc3MywxNT
-c1MTY5OTI2XX0=
+eyJoaXN0b3J5IjpbOTk4MTc1Mzc1LC0xNzAxNTY5NjgyLC00OD
+M3MTc2NjYsLTQwNjM3NjE3NywxOTIxNjg3MDQ3LC00MTU5NDMx
+MjIsNjE2MTM2ODcxLDE4NzU0NDkxNzAsOTI1MjA3NzczLDE1Nz
+UxNjk5MjZdfQ==
 -->
