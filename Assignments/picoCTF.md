@@ -49,13 +49,18 @@ As mentioned in Hint login doesn't check password of any other user except Joe. 
     admin = True
 **NOTE** : requests are case sensitive.
 
+# dont-use-client-side
+Simple!
+website doen't make any request to verify cerdentials. So, clearly password is already present in computer and That's it!
+Flag is contained in 
+
 # login
 Simple!
 **Flag :** picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}
 Flag is in encoded form in js file fetched by website to match the password entered. Flag is encoded in base64 format, just decode it!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDg1MzY1LC0xNzAxNTY5NjgyLC00OD
-M3MTc2NjYsLTQwNjM3NjE3NywxOTIxNjg3MDQ3LC00MTU5NDMx
-MjIsNjE2MTM2ODcxLDE4NzU0NDkxNzAsOTI1MjA3NzczLDE1Nz
-UxNjk5MjZdfQ==
+eyJoaXN0b3J5IjpbMjg1MDQ3MTIxLC01NDQ4NTM2NSwtMTcwMT
+U2OTY4MiwtNDgzNzE3NjY2LC00MDYzNzYxNzcsMTkyMTY4NzA0
+NywtNDE1OTQzMTIyLDYxNjEzNjg3MSwxODc1NDQ5MTcwLDkyNT
+IwNzc3MywxNTc1MTY5OTI2XX0=
 -->
