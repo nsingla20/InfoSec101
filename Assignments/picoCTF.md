@@ -54,14 +54,17 @@ Simple!
 **Flag :** picoCTF{no_clients_plz_1a3c89}
 website doen't make any request to verify cerdentials. So, clearly password is already present in computer and That's it!
 Flag is contained in js script which is embedded in html file. It's just broken into parts.
-
+# It is my birthday
+A bit googling
+Flag : picoCTF{c0ngr4ts_u_r_1nv1t3d_5c8c5ce2}
+Its just about getting 2 files 
 # login
 Simple!
 **Flag :** picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}
 Flag is in encoded form in js file fetched by website to match the password entered. Flag is encoded in base64 format, just decode it!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjExNzE1MDcsLTU0NDg1MzY1LC0xNz
-AxNTY5NjgyLC00ODM3MTc2NjYsLTQwNjM3NjE3NywxOTIxNjg3
-MDQ3LC00MTU5NDMxMjIsNjE2MTM2ODcxLDE4NzU0NDkxNzAsOT
-I1MjA3NzczLDE1NzUxNjk5MjZdfQ==
+eyJoaXN0b3J5IjpbLTI5NTQxOTc2NywtMTk2MTE3MTUwNywtNT
+Q0ODUzNjUsLTE3MDE1Njk2ODIsLTQ4MzcxNzY2NiwtNDA2Mzc2
+MTc3LDE5MjE2ODcwNDcsLTQxNTk0MzEyMiw2MTYxMzY4NzEsMT
+g3NTQ0OTE3MCw5MjUyMDc3NzMsMTU3NTE2OTkyNl19
 -->
