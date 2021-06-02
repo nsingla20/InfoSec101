@@ -51,16 +51,17 @@ As mentioned in Hint login doesn't check password of any other user except Joe. 
 
 # dont-use-client-side
 Simple!
+**Flag :** picoCTF{no_clients_plz_1a3c89}
 website doen't make any request to verify cerdentials. So, clearly password is already present in computer and That's it!
-Flag is contained in 
+Flag is contained in js script which is embedded in html file. It's just broken into parts.
 
 # login
 Simple!
 **Flag :** picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}
 Flag is in encoded form in js file fetched by website to match the password entered. Flag is encoded in base64 format, just decode it!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1MDQ3MTIxLC01NDQ4NTM2NSwtMTcwMT
-U2OTY4MiwtNDgzNzE3NjY2LC00MDYzNzYxNzcsMTkyMTY4NzA0
-NywtNDE1OTQzMTIyLDYxNjEzNjg3MSwxODc1NDQ5MTcwLDkyNT
-IwNzc3MywxNTc1MTY5OTI2XX0=
+eyJoaXN0b3J5IjpbLTE5NjExNzE1MDcsLTU0NDg1MzY1LC0xNz
+AxNTY5NjgyLC00ODM3MTc2NjYsLTQwNjM3NjE3NywxOTIxNjg3
+MDQ3LC00MTU5NDMxMjIsNjE2MTM2ODcxLDE4NzU0NDkxNzAsOT
+I1MjA3NzczLDE1NzUxNjk5MjZdfQ==
 -->
