@@ -31,10 +31,8 @@ again flag is divided in **5 parts** :
 Simple!
 On loading website makes a GET request to get the correct flag. I this junk last line is clearly written flag itself xD.
 
-# login
-Simple!
-**Flag :** picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}
-Flag is in encoded form in js file fetched by website to match the password entered. Flag is encoded in base64 format, just decode it!
+
+
 
 # where are the robots
 Simple!
@@ -44,8 +42,12 @@ Clearly, Creator control acces using **robots.txt**. So, get it using GET reques
     Disallow: /477ce.html
   get **/477ce.html** and it contains flag.
 
+# logon
+Bit error porne!
+Flag : 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDE1Njk2ODIsLTQ4MzcxNzY2NiwtND
-A2Mzc2MTc3LDE5MjE2ODcwNDcsLTQxNTk0MzEyMiw2MTYxMzY4
-NzEsMTg3NTQ0OTE3MCw5MjUyMDc3NzMsMTU3NTE2OTkyNl19
+eyJoaXN0b3J5IjpbLTI3MTMyMjEzNiwtMTcwMTU2OTY4MiwtND
+gzNzE3NjY2LC00MDYzNzYxNzcsMTkyMTY4NzA0NywtNDE1OTQz
+MTIyLDYxNjEzNjg3MSwxODc1NDQ5MTcwLDkyNTIwNzc3MywxNT
+c1MTY5OTI2XX0=
 -->
