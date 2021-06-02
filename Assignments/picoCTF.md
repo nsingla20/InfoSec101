@@ -42,16 +42,20 @@ Clearly, Creator control acces using **robots.txt**. So, get it using GET reques
 
 # logon
 Bit error porne!
-Flag : picoCTF{th3_c0nsp1r4cy_l1v3s_d1c24fef}
-As mentioned in Hint login doesn't check password of any other user except Joe. So, first login with any random username and password. On login, it makes request to /flag endpoint. Change that request's cookies value
+**Flag** : picoCTF{th3_c0nsp1r4cy_l1v3s_d1c24fef}
+As mentioned in Hint login doesn't check password of any other user except Joe. So, first login with any random username and password. On login, it makes request to **/flag** endpoint. Change that request's cookies values. Set 
+
+    username = Joe
+    admin = True
+**NOTE** : requests are case sensitive.
 
 # login
 Simple!
 **Flag :** picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}
 Flag is in encoded form in js file fetched by website to match the password entered. Flag is encoded in base64 format, just decode it!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjgzNTMzMTMsLTE3MDE1Njk2ODIsLT
-Q4MzcxNzY2NiwtNDA2Mzc2MTc3LDE5MjE2ODcwNDcsLTQxNTk0
-MzEyMiw2MTYxMzY4NzEsMTg3NTQ0OTE3MCw5MjUyMDc3NzMsMT
-U3NTE2OTkyNl19
+eyJoaXN0b3J5IjpbLTU0NDg1MzY1LC0xNzAxNTY5NjgyLC00OD
+M3MTc2NjYsLTQwNjM3NjE3NywxOTIxNjg3MDQ3LC00MTU5NDMx
+MjIsNjE2MTM2ODcxLDE4NzU0NDkxNzAsOTI1MjA3NzczLDE1Nz
+UxNjk5MjZdfQ==
 -->
