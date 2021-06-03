@@ -66,13 +66,36 @@ A bit googling
 **Flag :** picoCTF{c0ngr4ts_u_r_1nv1t3d_5c8c5ce2}
 
 Its just about getting 2 files having same md5 hash but different content (md5-collision) and small size. So, I just find two files online having these properties on [this](http://web.archive.org/web/20071226014140/http://www.cits.rub.de/MD5Collisions/) link. Then upload these files and change `Content-Type` to `application/pdf`.
+# who r u?
+simple but irritating
+
+Flag : picoCTF{http_h34d3rs_v3ry_c0Ol_much_w0w_0da16bb2}
+
+just keep on adding headers that are required.
+Here is complete request :
+
+    GET / HTTP/1.1
+HOST : mercury.picoctf.net:36622
+User-Agent: PicoBrowser
+Accept: */*
+Content-Length: 0
+Referer: http://mercury.picoctf.net:36622/
+Date: Wed, 21 Oct 2018 07:28:00 GMT
+DNT: 1
+X-Forwarded-For: 2.16.69.4
+Accept-Language: sv
+Connection: close
+
+
+
 # login
 Simple!
 **Flag :** picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}
 Flag is in encoded form in js file fetched by website to match the password entered. Flag is encoded in base64 format, just decode it!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDQyODI2MCwtMTk2MTE3MTUwNywtNT
-Q0ODUzNjUsLTE3MDE1Njk2ODIsLTQ4MzcxNzY2NiwtNDA2Mzc2
-MTc3LDE5MjE2ODcwNDcsLTQxNTk0MzEyMiw2MTYxMzY4NzEsMT
-g3NTQ0OTE3MCw5MjUyMDc3NzMsMTU3NTE2OTkyNl19
+eyJoaXN0b3J5IjpbMjk2OTIyNDc2LDEwMzQ0MjgyNjAsLTE5Nj
+ExNzE1MDcsLTU0NDg1MzY1LC0xNzAxNTY5NjgyLC00ODM3MTc2
+NjYsLTQwNjM3NjE3NywxOTIxNjg3MDQ3LC00MTU5NDMxMjIsNj
+E2MTM2ODcxLDE4NzU0NDkxNzAsOTI1MjA3NzczLDE1NzUxNjk5
+MjZdfQ==
 -->
